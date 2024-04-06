@@ -1,0 +1,32 @@
+React Login System
+
+Login APIs
+API (Application Programming Interface)
+Backend Engineers
+
+
+ReadyMade CMS Strapi
+Strapi is a Content Management System
+Strapi will provide APIs
+
+Strapi install within 4-5 minutes
+window + x  => Terminal(Admin)/windows powerShell(Admin)
+
+https://strapi.io/
+http://localhost:1337/admin
+
+
+
+
+
+
+video - 17 (26:45)
+ctrl+c (close strapi)
+	-> cls (to clear screen)
+
+Strapi launch again
+    1st you go to exact folder
+	=> dir
+	  => cd .\my-project   (go to this folder if exists)
+	     => npm run dev
+		=> npm start
